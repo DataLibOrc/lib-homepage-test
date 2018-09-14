@@ -9,6 +9,21 @@ h1 {
   text-shadow: 1px 1px black;
 }
 
+h1.top {
+  color: white;
+  text-shadow: 1px 1px black;
+  text-align: center;
+}
+
 p {
   color: grey;
+}
+
+p.top {
+  color: grey;
+  text-align: center;
+}
+
+p.info {
+  color: black;
 }
