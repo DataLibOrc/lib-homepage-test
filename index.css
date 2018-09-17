@@ -26,8 +26,7 @@ p.top {
 
 .info {
   color: black;
-  margin-right: 100px;
-  border-style: solid;
+  border-style: none solid;
   top: 0;
   left: 0;
   width: 160px;
