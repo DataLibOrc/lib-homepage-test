@@ -24,6 +24,15 @@ p.top {
   text-align: center;
 }
 
-p.info {
+.info {
   color: black;
+  margin-right: 100px;
+  border-style: solid;
+  top: 0;
+  left: 0;
+  width: 160px;
+}
+
+p.books {
+  text-align: center;
 }
